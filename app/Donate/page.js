@@ -31,7 +31,6 @@ const Page = () => {
         }}>
             <div className='top' >
                 <motion.h1  
-
                     initial={{
                         opacity:0,
                         scale:0
@@ -52,7 +51,6 @@ const Page = () => {
 
             <div className='donate_bottom'>
                 <motion.h4 
-
                     initial={{
                         y:"-100px",
                         opacity:0
